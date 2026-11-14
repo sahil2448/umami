@@ -255,6 +255,7 @@ export const labels: Record<string, string> = {
   utmTerm: 'label.utm-term',
   segment: 'label.segment',
   cohort: 'label.cohort',
+  columns: 'label.columns',
   minute: 'label.minute',
   hour: 'label.hour',
   day: 'label.day',
